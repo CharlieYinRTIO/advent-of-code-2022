@@ -11,4 +11,4 @@ Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 
 ## Fun Stuff
 
-![Day 14 Solution](.plots\day-14-cave-01.png)
+![Day 14 Solution](.plots/day-14-cave-01.png)
